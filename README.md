@@ -8,3 +8,4 @@ A list of [#Rustlang](https://rust-lang.org) projects accepting [#hacktoberfest]
 Name | Description | Issues | Tags
 --- | --- | --- | ---
 **makectl** | A CLI to Manage your Makefile targets. | [https://github.com/rochacbruno/makectl/issues](https://github.com/rochacbruno/makectl/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest) | CLI, Clap, Serde
+**pastel**  | A CLI to generate, analyze, convert and manipulate colors. | [https://github.com/sharkdp/pastel/issues](https://github.com/sharkdp/pastel/issues) | Colors, Color-space, converter 
