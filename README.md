@@ -12,3 +12,4 @@ Name | Description | Issues | Tags
 **makectl** | A CLI to Manage your Makefile targets. | [https://github.com/rochacbruno/makectl/issues](https://github.com/rochacbruno/makectl/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest) | CLI, Clap, Serde
 **parity** | The platform for blockchain innovators | [https://substrate.dev/hacktoberfest/](https://substrate.dev/hacktoberfest/) | Blockchain, Substrate, WebAssembly
 **pastel**  | A CLI to generate, analyze, convert and manipulate colors. | [https://github.com/sharkdp/pastel/issues](https://github.com/sharkdp/pastel/issues) | Colors, Color-space, converter 
+**rust-clippy** | Lints to catch common mistakes and improve your Rust code. | [hhttps://github.com/rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy/labels?utf8=%E2%9C%93&q=hacktoberfest) | Lint, Code, Tool, Quality
