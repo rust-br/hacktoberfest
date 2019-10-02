@@ -11,3 +11,4 @@ Name | Description | Issues | Tags
 **lumen** | An alternative BEAM implementation, designed for WebAssembly | [https://github.com/lumen/lumen/issues](https://github.com/lumen/lumen/milestone/4) | Erlang, Elixir, BEAM, WebAssembly
 **makectl** | A CLI to Manage your Makefile targets. | [https://github.com/rochacbruno/makectl/issues](https://github.com/rochacbruno/makectl/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest) | CLI, Clap, Serde
 **parity** | The platform for blockchain innovators | [https://substrate.dev/hacktoberfest/](https://substrate.dev/hacktoberfest/) | Blockchain, Substrate, WebAssembly
+**pastel**  | A CLI to generate, analyze, convert and manipulate colors. | [https://github.com/sharkdp/pastel/issues](https://github.com/sharkdp/pastel/issues) | Colors, Color-space, converter 
